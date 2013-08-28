@@ -1,0 +1,12 @@
+D:\Work\json\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Work\json\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Work\json\Temp\bin\Debug\JsonFx.Json.dll
+D:\Work\json\Temp\bin\Debug\UnityEditor.dll
+D:\Work\json\Temp\bin\Debug\UnityEngine.dll
+D:\Work\json\Temp\bin\Debug\Mono.Cecil.dll
+D:\Work\json\Temp\bin\Debug\nunit.framework.dll
+D:\Work\json\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Work\json\Temp\bin\Debug\JsonFx.Json.xml
+D:\Work\json\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Work\json\obj\Debug\Assembly-CSharp.dll
+D:\Work\json\obj\Debug\Assembly-CSharp.pdb

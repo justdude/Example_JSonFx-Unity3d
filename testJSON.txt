@@ -1,0 +1,1 @@
+[{"__type":"JSonHandler+Student, Assembly-CSharp","name":"Ivan","age":3,"count":[2,5,35,234,75,6,234,7,2232323,-6]},{"__type":"JSonHandler+Student, Assembly-CSharp","name":"Serega","age":4,"count":[2,5,35,234,75,6,234,7,2232323,-6]},{"__type":"JSonHandler+Student, Assembly-CSharp","name":"Ivan","age":3,"count":[2,5,35,234,75,6,234,7,2232323,-6]}]
